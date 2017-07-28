@@ -1,0 +1,24 @@
+{
+  "name": "expy-node",
+  "version": "1.0.0",
+  "description": "ExpressWay Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/Expy-node.git"
+  },
+  "keywords": [
+    "ExpressWay",
+    "expy"
+  ],
+  "author": "JeLewine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiberJe/Expy-node/issues"
+  },
+  "homepage": "https://github.com/LiberJe/Expy-node#readme",
+  "dependencies": {}
+}
